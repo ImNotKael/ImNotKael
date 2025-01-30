@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Kael</h1>
+<h1 align="center">Hello there, I'm Kael</h1>
 <h3 align="center">That one guy who wears a Red, White, Green, Blue, and Tan all the time!</h3>
 
 - 🔭 I’m currently working on coding **stuff for the goat Forlenza!**
